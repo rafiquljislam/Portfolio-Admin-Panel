@@ -1,5 +1,4 @@
-
-    {
+{
         "name": "MD Rafiqul Islam",
         "imgage": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.0-9/71087940_668659373544267_1445874210185412608_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_ohc=XMvl9Nbjj8AAX8RIMQv&_nc_ht=scontent.fdac31-1.fna&oh=f6b48f46b98cbdbdf3e8dc2fb8053cb6&oe=5FE485C6",
         "title": "Web and Android Developer",
@@ -8,31 +7,9 @@
         "address": "Cumilla, Bangladesh",
         "email": "codewithrafiq@gmail.com",
         "phone": "+88 01714833985",
-        
-            "facebook": "https://www.facebook.com/codewithrafiq/",
-            "instragram": "https://www.instagram.com/codewithrafiq/",
-            "linkdin": "https://www.linkedin.com/in/codewithrafiq/",
-            "github": "https://github.com/rafiquljislam"
-        ,
-        "education":[
-{
-	"college":"comilla polytechnic institute",
-	"subject":"Computer Tacnology",
-	"year":"2019-2022",
-	"Gead":"4.90",
-	"about": "write something about this subject like computer technology"
-}
-],
-"experience":[{
-	"title":"Intern",
-	"companyName":"Tsts company",
-	"position":"intern",
-	"time":"12/02/2020",
-	"duration":"1/12/2012-12-12-2032",
-	"companyAddress":"test address",
-	"about": "wright something about this Job or any"
-}]
-
-
+	"facebook": "https://www.facebook.com/codewithrafiq/",
+        "instragram": "https://www.instagram.com/codewithrafiq/",
+        "linkdin": "https://www.linkedin.com/in/codewithrafiq/",
+        "github": "https://github.com/rafiquljislam"
 }
 
