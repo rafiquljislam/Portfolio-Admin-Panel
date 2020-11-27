@@ -1,6 +1,5 @@
 # codewithrafiq.github.io
-[Go Site]("https://codewithrafiq.github.io/")
-
+## [Go Site](https://codewithrafiq.github.io/)
 
 ```diff
 - text in red
