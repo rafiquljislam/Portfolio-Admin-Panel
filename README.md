@@ -10,3 +10,22 @@
 
 
 <span style="color: green"> Some green text </span>
+
+
+```json
+   // code for coloring
+   #RRGGBB
+```
+```html
+   // code for coloring
+#RRGGBB
+```
+```js
+   // code for coloring
+   #RRGGBB
+```
+```css
+   // code for coloring
+   #RRGGBB
+```
+// etc.
