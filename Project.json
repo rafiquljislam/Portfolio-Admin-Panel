@@ -1,8 +1,17 @@
 [
+        {
+        "name": "Spotify Clone",
+        "imageUrl": "https://raw.githubusercontent.com/rafiquljislam/spotify_clone/main/spotify_1.png",
+        "deployed_url": "https://covid19tracker11.web.app/",
+        "github_url": "https://github.com/rafiquljislam/spotify_clone",
+        "category": [
+            "react"
+        ]
+    },
     {
         "name": "COVID 19 tracker",
         "imageUrl": "https://raw.githubusercontent.com/rafiquljislam/COVID-19-Tracker/main/img.png",
-        "deployed_url": "https://covid19tracker11.web.app/",
+        "deployed_url": null,
         "github_url": "https://github.com/rafiquljislam/COVID-19-Tracker",
         "category": [
             "react",
