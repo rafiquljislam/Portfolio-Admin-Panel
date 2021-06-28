@@ -28,8 +28,14 @@
         
     },
     {
-        "title":"Github",
+        "title":"Github - 1",
         "link":"https://github.com/rafiquljislam",
+        "image":"https://github.githubassets.com/images/modules/logos_page/Octocat.png"
+        
+    },
+        {
+        "title":"Github - 2",
+        "link":"https://github.com/codewithrafiq",
         "image":"https://github.githubassets.com/images/modules/logos_page/Octocat.png"
         
     },
